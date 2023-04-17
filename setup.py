@@ -44,7 +44,7 @@ setup_args = dict(
     version=get_version(),
     packages=find_packages(exclude=("tests", "tests.*")),
     author='15055735530',
-    author_email='JoinQuant1998',
+    author_email='2224779926@qq.com',
     maintainer="",
     maintainer_email="",
     url='https://www.joinquant.com',
