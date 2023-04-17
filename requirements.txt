@@ -1,5 +1,5 @@
 six
-fastcache>=1.0.2
+fastcache>=1.1.0
 SQLAlchemy>=1.2.8
 cached_property>=1.5.1
 statsmodels
